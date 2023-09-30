@@ -89,14 +89,15 @@ public class Challenge {
         Student s2=new Student("Tanvi",wb);
         Student s3=new Student("Anta",wb);
         Student s4=new Student("AK",wb);
-        
+        Student s5=new Student("Rana",wb);
+
         t.start();
         
         s1.start();
         s2.start();
         s3.start();
         s4.start();
-        
+        s5.start();
         
     }
 }
